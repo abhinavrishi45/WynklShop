@@ -1,4 +1,6 @@
 Overview
+
+
 This is a full-stack e-commerce clothing website built using the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to browse, search, and purchase a variety of clothing items. It features user authentication, product management, and a seamless shopping experience.
 
 Features
@@ -33,4 +35,5 @@ MongoDB
 
 
 Acknowledgments
+
 Special thanks to the open-source community for the libraries and frameworks used in this project.
