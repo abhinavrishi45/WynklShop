@@ -49,7 +49,9 @@ Node.js
 npm
 MongoDB
 
-# Installation :- npm run start (for frontend and Admin ) node ./index.js (for backend)
+# Installation :- 
+  
+  npm run start (for frontend and Admin ) node ./index.js (for backend)
 
 
 # Acknowledgments:-
