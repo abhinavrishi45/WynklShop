@@ -8,7 +8,7 @@ Features:-
 User Authentication: Sign up, log in, and manage user accounts.
 
 
-Product Listings: View a range of clothing items with detailed descriptions and images.\
+Product Listings: View a range of clothing items with detailed descriptions and images.
 
 
 Search and Filter: Easily search and filter products by category, size, and price.
@@ -24,32 +24,32 @@ Order Management: View order history and track purchases.
 Admin Dashboard: Manage products, orders, and users.
 
 
-Technologies Used
+Technologies Used:-
 
 
-Frontend:
+Frontend:-
 React
 Redux (for state management)
 CSS/SCSS for styling
 
 
-Backend:
+Backend:-
 Node.js
 Express.js
 MongoDB (with Mongoose for data modeling)
 JWT for authentication
 
-Installation : npm run start (for frontend and Admin ) node ./index.js (for backend)
+Installation :- npm run start (for frontend and Admin ) node ./index.js (for backend)
 
 
 
-Make sure you have the following installed:
+Make sure you have the following installed:-
 
 Node.js
 npm
 MongoDB
 
 
-Acknowledgments
+Acknowledgments:-
 
 Special thanks to the open-source community for the libraries and frameworks used in this project.
