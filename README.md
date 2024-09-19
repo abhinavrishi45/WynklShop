@@ -39,15 +39,17 @@ Express.js
 MongoDB (with Mongoose for data modeling)
 JWT for authentication
 
-Installation :- npm run start (for frontend and Admin ) node ./index.js (for backend)
+
 
 
 
 # Make sure you have the following installed:-
 
-Node.js
+Node.js    
 npm
 MongoDB
+
+# Installation :- npm run start (for frontend and Admin ) node ./index.js (for backend)
 
 
 # Acknowledgments:-
